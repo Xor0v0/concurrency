@@ -1,3 +1,3 @@
 # Concurrency
 
-Learing materials for concurrency in Rust.
+Learning materials for concurrency in Rust.
